@@ -10,7 +10,7 @@
 
 Database developer who genuinely enjoys writing SQL. Yes, on purpose.
 
-Currently making databases behave at a **major bank** while also building the data layer for an **enterprise ERP platform** — because one production database wasn't enough adrenaline.
+Currently making databases behave at a **major bank**. Previously built the data layer for an **enterprise ERP platform** from scratch.
 
 I don't just query data. I architect it, optimize it, and mass text it at 2 AM when something locks.
 
@@ -55,8 +55,8 @@ I don't just query data. I architect it, optimize it, and mass text it at 2 AM w
 [BANKING]     Built Qlik Sense extensions from scratch. Administer BI platform.
               Oracle SQL + PostgreSQL — ad-hoc reports that somehow became permanent.
 
-[ERP]         Database developer for an enterprise accounting platform.
-              Stored procedures, CLR integrations, the whole nine yards.
+[ERP]         Built the database layer for an enterprise accounting platform.
+              Stored procedures, CLR integrations, XML processing, async jobs.
               If the DB breaks, it's my fault. If it works, nobody notices.
 
 [INTEGRATIONS] PSD2 Open Banking (6 banks) · Tax authority APIs · Payment processing
