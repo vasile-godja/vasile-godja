@@ -6,15 +6,6 @@
 
 ---
 
-### `> whoami`
-
-Database developer who genuinely enjoys writing SQL. Yes, on purpose.
-
-Currently making databases behave at a **major bank**. Previously built the data layer for an **enterprise ERP platform** from scratch.
-
-I don't just query data. I architect it, optimize it, and mass text it at 2 AM when something locks.
-
----
 
 ### `> ls ~/toolbox/`
 
@@ -68,16 +59,6 @@ I don't just query data. I architect it, optimize it, and mass text it at 2 AM w
 
 [OTHER]       IoT · Dynamic pricing engines · Web scraping · Data science
               A Flutter app that one time · Game automation (don't judge)
-```
-
----
-
-### `> fortune -s`
-
-```
-Most of my repos are private because my employer prefers it that way.
-The public ones are from university — back when I thought README files were optional.
-I was wrong. I'm fixing that.
 ```
 
 ---
