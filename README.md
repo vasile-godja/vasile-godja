@@ -8,11 +8,11 @@
 
 ### `> whoami`
 
-Database developer who accidentally became a full-stack developer because *"can you also do the API?"* never stops.
+Database developer who genuinely enjoys writing SQL. Yes, on purpose.
 
-Currently making databases behave at a **major bank** while moonlighting as the solo dev behind an **enterprise ERP platform** — because one production environment wasn't enough stress.
+Currently making databases behave at a **major bank** while also building the data layer for an **enterprise ERP platform** — because one production database wasn't enough adrenaline.
 
-I've written more stored procedures than hot meals I've had this year.
+I don't just query data. I architect it, optimize it, and mass text it at 2 AM when something locks.
 
 ---
 
